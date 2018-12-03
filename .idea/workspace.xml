@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="dba686e2-eebf-4d19-a521-07c6dea76efb" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/client/src/components/NotFound.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/api/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/api/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/api/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/api/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/api/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/api/package.json" afterDir="false" />
@@ -31,7 +32,7 @@
         <entry file="file://$PROJECT_DIR$/client/src/App.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="575">
-              <caret line="25" column="19" lean-forward="true" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+              <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -60,7 +61,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1270" />
+    <option name="x" value="1269" />
     <option name="y" value="23" />
     <option name="width" value="1270" />
     <option name="height" value="1336" />
@@ -73,6 +74,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -95,7 +97,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -128,11 +129,12 @@
       <workItem from="1543527745478" duration="1525000" />
       <workItem from="1543534230407" duration="558000" />
       <workItem from="1543546035274" duration="668000" />
+      <workItem from="1543686062894" duration="139000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2751000" />
+    <option name="totallyTimeSpent" value="2890000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -144,8 +146,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1270" y="23" width="1270" height="1336" extended-state="0" />
-    <editor active="true" />
+    <frame x="1269" y="23" width="1270" height="1336" extended-state="0" />
     <layout>
       <window_info id="Favorites" order="0" sideWeight="0.5008143" side_tool="true" weight="0.27942353" />
       <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.49918568" visible="true" weight="0.27942353" />
@@ -209,7 +210,7 @@
     <entry file="file://$PROJECT_DIR$/client/src/App.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="575">
-          <caret line="25" column="19" lean-forward="true" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+          <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>
